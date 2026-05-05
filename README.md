@@ -3,9 +3,8 @@
 # ⚡ YOUSSEF MEFTAH
 **Full Stack Developer | Tech Enthusiast | Problem Solver**
 
----
 
-<img src="https://github-readme-stats.vercel.app/api?username=YosefMt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Youssef's Stats" />
+
 
 ---
 
